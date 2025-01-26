@@ -1,0 +1,9 @@
+﻿  Functions.cpp
+E:\1 sem\Laba_7_10\Laba_7_10\Functions.cpp(71,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\1 sem\Laba_7_10\Laba_7_10\Functions.cpp(181,62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\1 sem\Laba_7_10\Laba_7_10\Functions.cpp(205,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\1 sem\Laba_7_10\Laba_7_10\Functions.cpp(257,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Laba_7_10.cpp
+  Generating Code...
+E:\1 sem\Laba_7_10\Laba_7_10\Functions.cpp(159): warning C4715: 'is_palindrome': not all control paths return a value
+  Laba_7_10.vcxproj -> E:\1 sem\Laba_7_10\x64\Debug\Laba_7_10.exe

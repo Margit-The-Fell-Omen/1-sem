@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\warti\\OneDrive\\Desktop\\LAB\\Laba_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF1DEE6-FA36-443A-84C0-59EA895E8213}|Laba_4.vcxproj|C:\\Users\\warti\\OneDrive\\Desktop\\LAB\\Laba_4\\Laba_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EF1DEE6-FA36-443A-84C0-59EA895E8213}|Laba_4.vcxproj|solutionrelative:Laba_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laba_4.cpp",
+              "DocumentMoniker": "C:\\Users\\warti\\OneDrive\\Desktop\\LAB\\Laba_4\\Laba_4.cpp",
+              "RelativeDocumentMoniker": "Laba_4.cpp",
+              "ToolTip": "C:\\Users\\warti\\OneDrive\\Desktop\\LAB\\Laba_4\\Laba_4.cpp",
+              "RelativeToolTip": "Laba_4.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T15:34:23.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
